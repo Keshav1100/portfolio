@@ -71,7 +71,7 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "A ecommerce shoe webiste",
+    title: "An ecommerce webiste for Shoes",
     des: "An awesome ecommeerce website for the shoe enthusiasts.",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/fm.svg"],
